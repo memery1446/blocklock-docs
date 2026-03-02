@@ -7,4 +7,5 @@
                  start-page="eth-lock.md">
 
     <toc-element topic="eth-lock.md"/>
+    <toc-element topic="ethlock-setup.md"/>
 </instance-profile>

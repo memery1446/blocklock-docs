@@ -1,3 +1,5 @@
+# Blocklock set up
+
 Here's your first doc — plain text, ready to paste into Writerside:
 
 ---
@@ -46,4 +48,3 @@ Each instance maintains its own navigation structure and table of contents autom
 
 ---
 
-Paste that into your `bl-docs` instance and let me know how it looks. Then we'll do the EthLock version!

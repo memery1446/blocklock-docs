@@ -1,4 +1,6 @@
-Eth Lock
+# ethlock-setup
+
+Here's the EthLock doc — paste it into your `ethlock` instance:
 
 ---
 
@@ -49,4 +51,3 @@ The EthLock instance was created inside the Writerside panel:
 
 ---
 
-Once you've pasted both in, the next logical step is setting up the `deploy.yml` so GitHub Pages actually publishes them. Want to tackle that next?
